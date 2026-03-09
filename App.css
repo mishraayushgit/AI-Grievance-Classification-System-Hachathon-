@@ -1,0 +1,106 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", "Segoe UI", sans-serif;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #0f172a;
+}
+
+.container {
+  width: 500px;
+  background-color: #ffffff;
+  padding: 32px;
+  border-radius: 14px;
+  box-shadow: 0 20px 40px rgba(15, 23, 42, 0.25);
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #acbce2;
+  font-weight: 600;
+}
+
+textarea {
+  width: 100%;
+  height: 120px;
+  padding: 14px;
+  font-size: 15px;
+  border-radius: 8px;
+  border: 1px solid #cbd5e1;
+  outline: none;
+  resize: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+textarea:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+}
+
+button {
+  width: 100%;
+  margin-top: 20px;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #2563eb;
+  transition: background-color 0.2s, box-shadow 0.2s;
+}
+
+button:hover {
+  background-color: #1e40af;
+  box-shadow: 0 8px 18px rgba(37, 99, 235, 0.35);
+}
+
+.result {
+  margin-top: 24px;
+  padding: 18px;
+  border-radius: 10px;
+  background-color: #d5e8f2;
+  border-left: 5px solid #2563eb;
+}
+
+.result h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #0f172a;
+  font-weight: 600;
+}
+
+.result p {
+  margin: 6px 0;
+  color: #334155;
+  font-size: 14.5px;
+}
+
+.badge {
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  color: white;
+}
+
+.high {
+  background-color: #dc2626; /* red */
+}
+
+.medium {
+  background-color: #d97706; /* amber */
+}
+
+.low {
+  background-color: #059669; /* green */
+}
