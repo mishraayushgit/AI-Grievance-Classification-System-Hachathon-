@@ -4,19 +4,8 @@ Public grievances related to infrastructure, utilities, and public services ofte
 # Project Name
 AI-Based Public Grievance Redressal System
 
-# Team Name
-The Coders
-
-# Deployed Link (Optional)
-Not deployed (local / demo-based presentation)
-
 # 2-Minute Demonstration Video Link
 (https://drive.google.com/file/d/15Qaj4_9NiApTel6TEiua7FAOl-Z3hxcy/view?usp=sharing)
-
-# PPT Link
-(https://cciitpatna-my.sharepoint.com/:p:/g/personal/ayush_2312res212_iitp_ac_in/IQCCoIL_kat7Q6etHZkKkOKFAWufM2vXftE-A6R0Eokp_yw?e=8FsN5D)
-
----
 
 ## Project Overview
 This project presents a lightweight AI-based public grievance redressal system that analyzes user-submitted grievances, classifies them into relevant categories, assigns priority levels, and maps them to the appropriate government departments.
