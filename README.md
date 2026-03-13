@@ -1,10 +1,10 @@
-# Problem Statement
+## Problem Statement
 Public grievances related to infrastructure, utilities, and public services often face delays due to manual handling, lack of prioritization, and improper routing to the concerned departments. This results in inefficiency, delayed resolutions, and lack of transparency for citizens.
 
-# Project Name
+## Project Name
 AI-Based Public Grievance Redressal System
 
-# 2-Minute Demonstration Video Link
+## 2-Minute Demonstration Video Link
 (https://drive.google.com/file/d/15Qaj4_9NiApTel6TEiua7FAOl-Z3hxcy/view?usp=sharing)
 
 ## Project Overview
